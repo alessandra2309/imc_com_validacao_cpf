@@ -1,0 +1,15 @@
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\aula2.exe
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\aula2.deps.json
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\aula2.runtimeconfig.json
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\aula2.dll
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\ref\aula2.dll
+C:\Users\2022102020045\source\repos\aula2\aula2\bin\Debug\net6.0\aula2.pdb
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfoInputs.cache
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfo.cs
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.dll
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\ref\aula2.dll
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.pdb
+C:\Users\2022102020045\source\repos\aula2\aula2\obj\Debug\net6.0\aula2.genruntimeconfig.cache
